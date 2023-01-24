@@ -1,4 +1,4 @@
-package apiTest.day4_jsonPath;
+package apiTest.Odev;
 
 import static io.restassured.RestAssured.*;
 
